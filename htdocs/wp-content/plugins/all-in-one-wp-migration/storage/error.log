@@ -1,0 +1,6 @@
+[Jan 06 2016 17:18:48] ERROR_HANDLER 
+Number:  2
+Message: gzinflate(): data error
+File:    D:\Bitnami\wordpress-4.4-0\apps\wordpress\htdocs\wp-includes\class-wp-http-encoding.php
+Line:    58
+-------------------------------------------- 
